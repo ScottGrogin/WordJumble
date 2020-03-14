@@ -10,6 +10,7 @@ the colon and the first letter in the hint. Also there should be no blank lines 
 pair.
 
 Below is a good example. The word internet would be at the top of the text file.
+```
 ____________________
 internet:www
 joystick:arcade
@@ -24,3 +25,4 @@ _________________________________
 
 Spacing    : Keep your distance    
 ---------------------------------
+```
