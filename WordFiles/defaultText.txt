@@ -1,0 +1,52 @@
+algorithm:a sequence of steps
+application:another word for program
+binary:base 2
+bitmap:Image file type
+cyberspace:another term for the internet
+cybercrime:black hats
+data:information
+download:copying data
+email:post office
+encrypt:you should do this to sensitive data
+flash:newgrounds
+font:comic Sans
+graphics:2d or 3d
+gigabyte:8e+9 bits
+hyperlink:You click these
+hacker:Z3r0 C007
+integer:Z
+internet:www
+joystick:arcade
+java:objects
+kernel:corn
+keyboard:piano
+logic:this and proportion have fallen sloppy dead
+login:username and password
+macintosh:apple
+macro:#
+network:local area
+neural:to do with the brain
+offline:irl
+output:the o in i/o
+pirate:arr
+programmer:person who makes software
+queue:line
+qwerty:keyboard
+root:trees have these
+reboot:have you tried turning it off and on again?
+spammer:canned meat
+syntax:well-formed sentences
+template:<T>
+thread:sewing
+username:Online handle
+undo:ctrl+z
+virus:the flu
+version:1.2.12
+website:www
+windows:4 panes
+xamarin:cross platform mobile
+xaml:mark up lang
+yacc:meta compiler
+yandex:russian google
+zebibyte:2^70 bytes
+zuckerberg:facebook
